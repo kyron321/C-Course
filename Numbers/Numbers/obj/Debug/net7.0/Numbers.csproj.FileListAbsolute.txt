@@ -1,0 +1,14 @@
+/Users/kyron/C# Tutorial/Numbers/Numbers/bin/Debug/net7.0/Numbers
+/Users/kyron/C# Tutorial/Numbers/Numbers/bin/Debug/net7.0/Numbers.deps.json
+/Users/kyron/C# Tutorial/Numbers/Numbers/bin/Debug/net7.0/Numbers.runtimeconfig.json
+/Users/kyron/C# Tutorial/Numbers/Numbers/bin/Debug/net7.0/Numbers.dll
+/Users/kyron/C# Tutorial/Numbers/Numbers/bin/Debug/net7.0/Numbers.pdb
+/Users/kyron/C# Tutorial/Numbers/Numbers/obj/Debug/net7.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyron/C# Tutorial/Numbers/Numbers/obj/Debug/net7.0/Numbers.AssemblyInfoInputs.cache
+/Users/kyron/C# Tutorial/Numbers/Numbers/obj/Debug/net7.0/Numbers.AssemblyInfo.cs
+/Users/kyron/C# Tutorial/Numbers/Numbers/obj/Debug/net7.0/Numbers.csproj.CoreCompileInputs.cache
+/Users/kyron/C# Tutorial/Numbers/Numbers/obj/Debug/net7.0/Numbers.dll
+/Users/kyron/C# Tutorial/Numbers/Numbers/obj/Debug/net7.0/refint/Numbers.dll
+/Users/kyron/C# Tutorial/Numbers/Numbers/obj/Debug/net7.0/Numbers.pdb
+/Users/kyron/C# Tutorial/Numbers/Numbers/obj/Debug/net7.0/Numbers.genruntimeconfig.cache
+/Users/kyron/C# Tutorial/Numbers/Numbers/obj/Debug/net7.0/ref/Numbers.dll
