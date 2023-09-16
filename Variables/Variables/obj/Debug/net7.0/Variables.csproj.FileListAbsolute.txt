@@ -1,0 +1,14 @@
+/Users/kyron/C# Tutorial/Variables/Variables/bin/Debug/net7.0/Variables
+/Users/kyron/C# Tutorial/Variables/Variables/bin/Debug/net7.0/Variables.deps.json
+/Users/kyron/C# Tutorial/Variables/Variables/bin/Debug/net7.0/Variables.runtimeconfig.json
+/Users/kyron/C# Tutorial/Variables/Variables/bin/Debug/net7.0/Variables.dll
+/Users/kyron/C# Tutorial/Variables/Variables/bin/Debug/net7.0/Variables.pdb
+/Users/kyron/C# Tutorial/Variables/Variables/obj/Debug/net7.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyron/C# Tutorial/Variables/Variables/obj/Debug/net7.0/Variables.AssemblyInfoInputs.cache
+/Users/kyron/C# Tutorial/Variables/Variables/obj/Debug/net7.0/Variables.AssemblyInfo.cs
+/Users/kyron/C# Tutorial/Variables/Variables/obj/Debug/net7.0/Variables.csproj.CoreCompileInputs.cache
+/Users/kyron/C# Tutorial/Variables/Variables/obj/Debug/net7.0/Variables.dll
+/Users/kyron/C# Tutorial/Variables/Variables/obj/Debug/net7.0/refint/Variables.dll
+/Users/kyron/C# Tutorial/Variables/Variables/obj/Debug/net7.0/Variables.pdb
+/Users/kyron/C# Tutorial/Variables/Variables/obj/Debug/net7.0/Variables.genruntimeconfig.cache
+/Users/kyron/C# Tutorial/Variables/Variables/obj/Debug/net7.0/ref/Variables.dll
