@@ -1,0 +1,14 @@
+/Users/kyron/C# Tutorial/Strings/Strings/bin/Debug/net7.0/Strings
+/Users/kyron/C# Tutorial/Strings/Strings/bin/Debug/net7.0/Strings.deps.json
+/Users/kyron/C# Tutorial/Strings/Strings/bin/Debug/net7.0/Strings.runtimeconfig.json
+/Users/kyron/C# Tutorial/Strings/Strings/bin/Debug/net7.0/Strings.dll
+/Users/kyron/C# Tutorial/Strings/Strings/bin/Debug/net7.0/Strings.pdb
+/Users/kyron/C# Tutorial/Strings/Strings/obj/Debug/net7.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyron/C# Tutorial/Strings/Strings/obj/Debug/net7.0/Strings.AssemblyInfoInputs.cache
+/Users/kyron/C# Tutorial/Strings/Strings/obj/Debug/net7.0/Strings.AssemblyInfo.cs
+/Users/kyron/C# Tutorial/Strings/Strings/obj/Debug/net7.0/Strings.csproj.CoreCompileInputs.cache
+/Users/kyron/C# Tutorial/Strings/Strings/obj/Debug/net7.0/Strings.dll
+/Users/kyron/C# Tutorial/Strings/Strings/obj/Debug/net7.0/refint/Strings.dll
+/Users/kyron/C# Tutorial/Strings/Strings/obj/Debug/net7.0/Strings.pdb
+/Users/kyron/C# Tutorial/Strings/Strings/obj/Debug/net7.0/Strings.genruntimeconfig.cache
+/Users/kyron/C# Tutorial/Strings/Strings/obj/Debug/net7.0/ref/Strings.dll
