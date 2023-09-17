@@ -1,0 +1,14 @@
+/Users/kyron/C# Tutorial/Arrays/Arrays/bin/Debug/net7.0/Arrays
+/Users/kyron/C# Tutorial/Arrays/Arrays/bin/Debug/net7.0/Arrays.deps.json
+/Users/kyron/C# Tutorial/Arrays/Arrays/bin/Debug/net7.0/Arrays.runtimeconfig.json
+/Users/kyron/C# Tutorial/Arrays/Arrays/bin/Debug/net7.0/Arrays.dll
+/Users/kyron/C# Tutorial/Arrays/Arrays/bin/Debug/net7.0/Arrays.pdb
+/Users/kyron/C# Tutorial/Arrays/Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyron/C# Tutorial/Arrays/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfoInputs.cache
+/Users/kyron/C# Tutorial/Arrays/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfo.cs
+/Users/kyron/C# Tutorial/Arrays/Arrays/obj/Debug/net7.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/kyron/C# Tutorial/Arrays/Arrays/obj/Debug/net7.0/Arrays.dll
+/Users/kyron/C# Tutorial/Arrays/Arrays/obj/Debug/net7.0/refint/Arrays.dll
+/Users/kyron/C# Tutorial/Arrays/Arrays/obj/Debug/net7.0/Arrays.pdb
+/Users/kyron/C# Tutorial/Arrays/Arrays/obj/Debug/net7.0/Arrays.genruntimeconfig.cache
+/Users/kyron/C# Tutorial/Arrays/Arrays/obj/Debug/net7.0/ref/Arrays.dll
