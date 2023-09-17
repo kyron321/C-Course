@@ -1,0 +1,14 @@
+/Users/kyron/C# Tutorial/Return Statements/Return Statements/bin/Debug/net7.0/Return Statements
+/Users/kyron/C# Tutorial/Return Statements/Return Statements/bin/Debug/net7.0/Return Statements.deps.json
+/Users/kyron/C# Tutorial/Return Statements/Return Statements/bin/Debug/net7.0/Return Statements.runtimeconfig.json
+/Users/kyron/C# Tutorial/Return Statements/Return Statements/bin/Debug/net7.0/Return Statements.dll
+/Users/kyron/C# Tutorial/Return Statements/Return Statements/bin/Debug/net7.0/Return Statements.pdb
+/Users/kyron/C# Tutorial/Return Statements/Return Statements/obj/Debug/net7.0/Return Statements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyron/C# Tutorial/Return Statements/Return Statements/obj/Debug/net7.0/Return Statements.AssemblyInfoInputs.cache
+/Users/kyron/C# Tutorial/Return Statements/Return Statements/obj/Debug/net7.0/Return Statements.AssemblyInfo.cs
+/Users/kyron/C# Tutorial/Return Statements/Return Statements/obj/Debug/net7.0/Return Statements.csproj.CoreCompileInputs.cache
+/Users/kyron/C# Tutorial/Return Statements/Return Statements/obj/Debug/net7.0/Return Statements.dll
+/Users/kyron/C# Tutorial/Return Statements/Return Statements/obj/Debug/net7.0/refint/Return Statements.dll
+/Users/kyron/C# Tutorial/Return Statements/Return Statements/obj/Debug/net7.0/Return Statements.pdb
+/Users/kyron/C# Tutorial/Return Statements/Return Statements/obj/Debug/net7.0/Return Statements.genruntimeconfig.cache
+/Users/kyron/C# Tutorial/Return Statements/Return Statements/obj/Debug/net7.0/ref/Return Statements.dll
