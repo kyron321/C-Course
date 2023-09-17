@@ -1,0 +1,14 @@
+/Users/kyron/C# Tutorial/Building A Calculator/Building A Calculator/bin/Debug/net7.0/Building A Calculator
+/Users/kyron/C# Tutorial/Building A Calculator/Building A Calculator/bin/Debug/net7.0/Building A Calculator.deps.json
+/Users/kyron/C# Tutorial/Building A Calculator/Building A Calculator/bin/Debug/net7.0/Building A Calculator.runtimeconfig.json
+/Users/kyron/C# Tutorial/Building A Calculator/Building A Calculator/bin/Debug/net7.0/Building A Calculator.dll
+/Users/kyron/C# Tutorial/Building A Calculator/Building A Calculator/bin/Debug/net7.0/Building A Calculator.pdb
+/Users/kyron/C# Tutorial/Building A Calculator/Building A Calculator/obj/Debug/net7.0/Building A Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyron/C# Tutorial/Building A Calculator/Building A Calculator/obj/Debug/net7.0/Building A Calculator.AssemblyInfoInputs.cache
+/Users/kyron/C# Tutorial/Building A Calculator/Building A Calculator/obj/Debug/net7.0/Building A Calculator.AssemblyInfo.cs
+/Users/kyron/C# Tutorial/Building A Calculator/Building A Calculator/obj/Debug/net7.0/Building A Calculator.csproj.CoreCompileInputs.cache
+/Users/kyron/C# Tutorial/Building A Calculator/Building A Calculator/obj/Debug/net7.0/Building A Calculator.dll
+/Users/kyron/C# Tutorial/Building A Calculator/Building A Calculator/obj/Debug/net7.0/refint/Building A Calculator.dll
+/Users/kyron/C# Tutorial/Building A Calculator/Building A Calculator/obj/Debug/net7.0/Building A Calculator.pdb
+/Users/kyron/C# Tutorial/Building A Calculator/Building A Calculator/obj/Debug/net7.0/Building A Calculator.genruntimeconfig.cache
+/Users/kyron/C# Tutorial/Building A Calculator/Building A Calculator/obj/Debug/net7.0/ref/Building A Calculator.dll
