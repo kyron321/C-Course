@@ -1,0 +1,14 @@
+/Users/kyron/C# Tutorial/Methods/Methods/bin/Debug/net7.0/Methods
+/Users/kyron/C# Tutorial/Methods/Methods/bin/Debug/net7.0/Methods.deps.json
+/Users/kyron/C# Tutorial/Methods/Methods/bin/Debug/net7.0/Methods.runtimeconfig.json
+/Users/kyron/C# Tutorial/Methods/Methods/bin/Debug/net7.0/Methods.dll
+/Users/kyron/C# Tutorial/Methods/Methods/bin/Debug/net7.0/Methods.pdb
+/Users/kyron/C# Tutorial/Methods/Methods/obj/Debug/net7.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyron/C# Tutorial/Methods/Methods/obj/Debug/net7.0/Methods.AssemblyInfoInputs.cache
+/Users/kyron/C# Tutorial/Methods/Methods/obj/Debug/net7.0/Methods.AssemblyInfo.cs
+/Users/kyron/C# Tutorial/Methods/Methods/obj/Debug/net7.0/Methods.csproj.CoreCompileInputs.cache
+/Users/kyron/C# Tutorial/Methods/Methods/obj/Debug/net7.0/Methods.dll
+/Users/kyron/C# Tutorial/Methods/Methods/obj/Debug/net7.0/refint/Methods.dll
+/Users/kyron/C# Tutorial/Methods/Methods/obj/Debug/net7.0/Methods.pdb
+/Users/kyron/C# Tutorial/Methods/Methods/obj/Debug/net7.0/Methods.genruntimeconfig.cache
+/Users/kyron/C# Tutorial/Methods/Methods/obj/Debug/net7.0/ref/Methods.dll
