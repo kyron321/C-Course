@@ -1,0 +1,14 @@
+/Users/kyron/C# Tutorial/Getting User Input/Getting User Input/bin/Debug/net7.0/Getting User Input
+/Users/kyron/C# Tutorial/Getting User Input/Getting User Input/bin/Debug/net7.0/Getting User Input.deps.json
+/Users/kyron/C# Tutorial/Getting User Input/Getting User Input/bin/Debug/net7.0/Getting User Input.runtimeconfig.json
+/Users/kyron/C# Tutorial/Getting User Input/Getting User Input/bin/Debug/net7.0/Getting User Input.dll
+/Users/kyron/C# Tutorial/Getting User Input/Getting User Input/bin/Debug/net7.0/Getting User Input.pdb
+/Users/kyron/C# Tutorial/Getting User Input/Getting User Input/obj/Debug/net7.0/Getting User Input.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyron/C# Tutorial/Getting User Input/Getting User Input/obj/Debug/net7.0/Getting User Input.AssemblyInfoInputs.cache
+/Users/kyron/C# Tutorial/Getting User Input/Getting User Input/obj/Debug/net7.0/Getting User Input.AssemblyInfo.cs
+/Users/kyron/C# Tutorial/Getting User Input/Getting User Input/obj/Debug/net7.0/Getting User Input.csproj.CoreCompileInputs.cache
+/Users/kyron/C# Tutorial/Getting User Input/Getting User Input/obj/Debug/net7.0/Getting User Input.dll
+/Users/kyron/C# Tutorial/Getting User Input/Getting User Input/obj/Debug/net7.0/refint/Getting User Input.dll
+/Users/kyron/C# Tutorial/Getting User Input/Getting User Input/obj/Debug/net7.0/Getting User Input.pdb
+/Users/kyron/C# Tutorial/Getting User Input/Getting User Input/obj/Debug/net7.0/Getting User Input.genruntimeconfig.cache
+/Users/kyron/C# Tutorial/Getting User Input/Getting User Input/obj/Debug/net7.0/ref/Getting User Input.dll
