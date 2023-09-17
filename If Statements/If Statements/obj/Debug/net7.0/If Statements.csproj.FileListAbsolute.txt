@@ -1,0 +1,14 @@
+/Users/kyron/C# Tutorial/If Statements/If Statements/bin/Debug/net7.0/If Statements
+/Users/kyron/C# Tutorial/If Statements/If Statements/bin/Debug/net7.0/If Statements.deps.json
+/Users/kyron/C# Tutorial/If Statements/If Statements/bin/Debug/net7.0/If Statements.runtimeconfig.json
+/Users/kyron/C# Tutorial/If Statements/If Statements/bin/Debug/net7.0/If Statements.dll
+/Users/kyron/C# Tutorial/If Statements/If Statements/bin/Debug/net7.0/If Statements.pdb
+/Users/kyron/C# Tutorial/If Statements/If Statements/obj/Debug/net7.0/If Statements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyron/C# Tutorial/If Statements/If Statements/obj/Debug/net7.0/If Statements.AssemblyInfoInputs.cache
+/Users/kyron/C# Tutorial/If Statements/If Statements/obj/Debug/net7.0/If Statements.AssemblyInfo.cs
+/Users/kyron/C# Tutorial/If Statements/If Statements/obj/Debug/net7.0/If Statements.csproj.CoreCompileInputs.cache
+/Users/kyron/C# Tutorial/If Statements/If Statements/obj/Debug/net7.0/If Statements.dll
+/Users/kyron/C# Tutorial/If Statements/If Statements/obj/Debug/net7.0/refint/If Statements.dll
+/Users/kyron/C# Tutorial/If Statements/If Statements/obj/Debug/net7.0/If Statements.pdb
+/Users/kyron/C# Tutorial/If Statements/If Statements/obj/Debug/net7.0/If Statements.genruntimeconfig.cache
+/Users/kyron/C# Tutorial/If Statements/If Statements/obj/Debug/net7.0/ref/If Statements.dll
